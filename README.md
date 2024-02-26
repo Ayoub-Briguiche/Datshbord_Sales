@@ -1,5 +1,7 @@
 
-#### Comment concevoir un tableau de bord interactif sur Power BI offrant une analyse visuelle approfondie des ventes sur Internet, en intégrant les données de ventes par produit et par client, avec une comparaison des performances par rapport au budget établi pour l'année 2021, tout en permettant des filtres personnalisés par vendeur, produit et client, ainsi qu'une analyse historique sur les deux dernières années pour une prise de décision stratégique efficace ?
+
+Ce tableau de bord vise à intégrer les données de vente par produit et par client, tout en permettant une comparaison des performances par rapport au budget. L'objectif est également d'offrir des filtres personnalisés par vendeur, produit et client, afin de faciliter une analyse détaillée et ciblée.
+
 ![Picture38](https://github.com/Ayoub-Briguiche/my_projects_Data/assets/159647559/9353186f-bcd3-41f6-b98d-e9f9cc737588)
 
 ### Étapes suivies
