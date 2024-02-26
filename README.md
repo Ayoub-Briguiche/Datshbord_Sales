@@ -4,7 +4,7 @@
 
 ### Étapes suivies
 
-- Étape 1 : Charger les données dans Power BI Desktop, l'ensemble de données étant 3 fichiers CSV et un fichier xlxs.
+- Étape 1 : Charger les données dans Power BI Desktop, l'ensemble de données étant 3 fichiers .CSV et un fichier .xlsx.
 
 - Étape 2 : Créer une modélisation de données en établissant des liaisons entre les tables de dimension et les tables de fait.
 
