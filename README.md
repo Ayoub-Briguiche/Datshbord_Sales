@@ -1,6 +1,6 @@
 
 
-Ce tableau de bord vise à intégrer les données de vente par produit et par client, tout en permettant une comparaison des performances par rapport au budget. L'objectif est également d'offrir des filtres personnalisés par vendeur, produit et client, afin de faciliter une analyse détaillée et ciblée.
+Ce tableau de bord vise à intégrer les données de vente par produit et par client, tout en permettant une comparaison des performances par rapport au budget. L'objectif est également d'offrir des filtres personnalisés par vendeur, produit et client, afin de faciliter une analyse détaillée et ciblée. 
 
 ![Picture38](https://github.com/Ayoub-Briguiche/my_projects_Data/assets/159647559/9353186f-bcd3-41f6-b98d-e9f9cc737588)
 
